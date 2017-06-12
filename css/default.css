@@ -70,12 +70,14 @@ footer{
 
 @media screen and (orientation:portrait){
   body:after{
+    color:#ffffff;
     content:"縦長だよーん";
   }
 }
 
 @media screen and (orientation:landscape){
   body:after{
+    color:#ffffff;
     content:"横長だよーん";
   }
 }
