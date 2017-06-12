@@ -4,3 +4,25 @@ body{
   background-color:#000000;
   font-family:"Nico Moji";
 }
+
+header{
+  padding:10px;
+  text-align:center;
+  background-color:#008000;
+}
+
+section{
+  padding:10px;
+  background-color:#00ff7f;
+}
+
+aside{
+  padding:10px;
+  background-color:#adff2f;
+}
+
+footer{
+  padding:10px;
+  text-align:center;
+  background-color:#008b8b;
+}
