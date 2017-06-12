@@ -70,12 +70,12 @@ footer{
 
 @media screen and(orientation:portrait){
   body:after{
-    content:"縦長だよーん";
+    content: "縦長だよーん";
   }
 }
 
 @media screen and(orientation:landscape){
   body:after{
-    content:"横長だよーん";
+    content: "横長だよーん";
   }
 }
